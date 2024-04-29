@@ -1,0 +1,30 @@
+header
+h1 {
+    background-color: rgb(86, 89, 92);
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header
+h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: rgb(3, 3, 3);
+    padding: 20px;
+    text-align: center;
+}
+ nav
+ ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(86, 89, 92);
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: white;
+    padding: 20px;
+ }
